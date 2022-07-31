@@ -1,4 +1,4 @@
-import numpy
+#three graph/ Tic tac toe
 run_game = True
 board = {
 	'topleft': ' ', 'topmid': ' ', 'topright':' ',
